@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('../fonts/icomoon.eot?beflmg');
-  src:  url('../fonts/icomoon.eot?beflmg#iefix') format('embedded-opentype'),
-    url('../fonts/icomoon.ttf?beflmg') format('truetype'),
-    url('../fonts/icomoon.woff?beflmg') format('woff'),
-    url('../fonts/icomoon.svg?beflmg#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?5w77bx');
+  src:  url('fonts/icomoon.eot?5w77bx#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?5w77bx') format('truetype'),
+    url('fonts/icomoon.woff?5w77bx') format('woff'),
+    url('fonts/icomoon.svg?5w77bx#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -40,7 +40,7 @@
 .icon-infohidro-dispensa:before {
   content: "\e904";
 }
-.icon-captacao:before {
+.icon-infohidro-captacao:before {
   content: "\e905";
 }
 .icon-infohidro-bacia:before {
