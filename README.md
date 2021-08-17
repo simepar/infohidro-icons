@@ -1,4 +1,4 @@
-![alt text](./images/simepar.png)
+<img style="display: block; margin: 0 auto;" src="./images/simepar.png">
 # Infohidro Sanepar Icon Fonts
 
 (C) Copyright SIMEPAR - Sistema Meteorológico do Paraná
@@ -8,13 +8,13 @@ Infohidro Sanepar Icon Fonts is a package that has icon fonts for Infohidro proj
 ## Get Started
 
 ### Installation
-Import the icons from CDN: 
+Import the icons from: 
 ```
 <link rel="stylesheet" href="https://simepar.github.io/infohidro-icons/style.css">  
 ```
 
 ### HTML
-Using the span tag you can add the icons' classes:
+Using the span tag you can add the icons:
 
 ```
 <span class="icon-infohidro-<icon_class>"></span>
