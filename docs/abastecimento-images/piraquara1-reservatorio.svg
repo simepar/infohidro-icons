@@ -1,11 +1,9 @@
 <svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" fill="#DEDEDE">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 297" preserveAspectRatio="xMaxYMax meet" x="-80">   
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 271" preserveAspectRatio="xMaxYMax meet" x="-16%">   
          <g>
             <g>
-                <path d="M14.8,0H0V260.27H56V0H14.8Zm0,4V256.28H4V4H14.8ZM52,4V256.28H16.8V4H52Z"/>
-                <rect x="4" y="3.99" width="10.8"/>
-                <rect x="16.8" y="3.99" width="35.2"/>
-                <path d="M18.73,260.27H14.8v36.25h10V260.27Zm-3,2.94,2.11-2H23.9V263l-8.19,8Zm8.19,31.6-.86.83H15.71V295l8.19-8Zm-8.19-2.65v-7.73l8.19-8v7.73Zm8.19-18.57-2.22,2.15-6,5.81v-7.73l8.19-8Z"/>
+                <path d="M16.8,0H0V260H56V0Zm-2,256H4V4H14.8ZM52,256H16.8V4H52Z"/>
+                <path d="M23.64,260H14.9l-.31.32V271h10V260Zm-8,1h7.05l-7,7.06Zm8,9H16.9l6.69-6.68Z"/>
             </g>
         </g>
     </svg>
