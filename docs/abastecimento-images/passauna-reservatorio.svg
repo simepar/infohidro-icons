@@ -1,9 +1,5 @@
 <svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" fill="#DEDEDE">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 61 284" preserveAspectRatio="xMaxYMax meet" y="38.8%">   
-         <g>
-            <g>
-                <path d="M38.18,2.31H56.45a2.32,2.32,0,0,1,2.31,2.31V147.84h-56L35.93,4.1a2.29,2.29,0,0,1,2.25-1.79m0-2.31a4.63,4.63,0,0,0-4.51,3.58L0,149.44a.58.58,0,0,0,.56.71H61.07V4.62A4.62,4.62,0,0,0,56.45,0Z"/>
-            </g>
-        </g>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 297" preserveAspectRatio="xMaxYMax meet" y="38.8%">   
+         <path d="M39.93,2.42H59a2.41,2.41,0,0,1,2.42,2.41V154.62H2.88L37.57,4.29a2.42,2.42,0,0,1,2.36-1.87m0-2.42a4.83,4.83,0,0,0-4.71,3.75L0,156.29A.6.6,0,0,0,.6,157H63.87V4.83A4.84,4.84,0,0,0,59,0Z"/>
     </svg>
 </svg>
