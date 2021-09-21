@@ -1,12 +1,6 @@
-<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" fill="#DEDEDE">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 297" preserveAspectRatio="xMaxYMax meet" x="-80">   
-         <g>
-            <g>
-                <path d="M14.8,0H0V260.27H56V0H14.8Zm0,4V256.28H4V4H14.8ZM52,4V256.28H16.8V4H52Z"/>
-                <rect x="4" y="3.99" width="10.8"/>
-                <rect x="16.8" y="3.99" width="35.2"/>
-                <path d="M18.73,260.27H14.8v36.25h10V260.27Zm-3,2.94,2.11-2H23.9V263l-8.19,8Zm8.19,31.6-.86.83H15.71V295l8.19-8Zm-8.19-2.65v-7.73l8.19-8v7.73Zm8.19-18.57-2.22,2.15-6,5.81v-7.73l8.19-8Z"/>
-            </g>
-        </g>
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" fill="white">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 151 297" preserveAspectRatio="xMaxYMax meet">   
+         <path d="M23.64,284.49H14.9l-.31.34V296.5h10v-12Zm-8,1.09h7.05l-7,7.71Zm8,9.83H16.9l6.68-7.3Z"/>
+         <path d="M56,280.13V0H0V284.49H150.28v-4.36Zm-41.2,0H4V4.36H14.8Zm34.2,0H16.8V4.36H52V280.13Z"/>
     </svg>
 </svg>
