@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'infohidro';
-  src:  url('fonts/infohidro.eot?16ajn1');
-  src:  url('fonts/infohidro.eot?16ajn1#iefix') format('embedded-opentype'),
-    url('fonts/infohidro.ttf?16ajn1') format('truetype'),
-    url('fonts/infohidro.woff?16ajn1') format('woff'),
-    url('fonts/infohidro.svg?16ajn1#infohidro') format('svg');
+  src:  url('fonts/infohidro.eot?cmymo1');
+  src:  url('fonts/infohidro.eot?cmymo1#iefix') format('embedded-opentype'),
+    url('fonts/infohidro.ttf?cmymo1') format('truetype'),
+    url('fonts/infohidro.woff?cmymo1') format('woff'),
+    url('fonts/infohidro.svg?cmymo1#infohidro') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,30 +25,63 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-infohidro-aproveitamento-hidreletrico:before {
-  content: "\e908";
-}
-.icon-infohidro-volume:before {
-  content: "\e900";
-}
-.icon-infohidro-reservatorio:before {
-  content: "\e901";
-}
-.icon-infohidro-poco:before {
-  content: "\e902";
-}
-.icon-infohidro-eta:before {
-  content: "\e903";
-}
-.icon-infohidro-dispensa:before {
-  content: "\e904";
-}
-.icon-infohidro-captacao:before {
+.icon-infohidro-termometro:before {
   content: "\e905";
 }
+.icon-infohidro-fogo-alerta:before {
+  content: "\e904";
+}
+.icon-infohidro-aproveitamento-hidreletrico:before {
+  content: "\e914";
+}
+.icon-infohidro-poco:before {
+  content: "\e900";
+}
+.icon-infohidro-pantano:before {
+  content: "\e901";
+}
+.icon-infohidro-onda:before {
+  content: "\e902";
+}
+.icon-infohidro-lupa-cancelado:before {
+  content: "\e903";
+}
+.icon-infohidro-fogo:before {
+  content: "\e907";
+}
+.icon-infohidro-floresta:before {
+  content: "\e908";
+}
+.icon-infohidro-eta:before {
+  content: "\e909";
+}
+.icon-infohidro-dispensa:before {
+  content: "\e90a";
+}
+.icon-infohidro-captacao:before {
+  content: "\e90b";
+}
 .icon-infohidro-bacia:before {
-  content: "\e906";
+  content: "\e90c";
+}
+.icon-infohidro-agropecuaria:before {
+  content: "\e90d";
 }
 .icon-infohidro-abastecimento:before {
-  content: "\e907";
+  content: "\e90e";
+}
+.icon-infohidro-volume:before {
+  content: "\e90f";
+}
+.icon-infohidro-reservatorio:before {
+  content: "\e910";
+}
+.icon-infohidro-predio:before {
+  content: "\e911";
+}
+.icon-infohidro-pontos-efluentes:before {
+  content: "\e912";
+}
+.icon-infohidro-pontos-captacao:before {
+  content: "\e913";
 }
