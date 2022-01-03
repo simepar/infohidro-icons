@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'infohidro';
-  src:  url('fonts/infohidro.eot?23rj0o');
-  src:  url('fonts/infohidro.eot?23rj0o#iefix') format('embedded-opentype'),
-    url('fonts/infohidro.ttf?23rj0o') format('truetype'),
-    url('fonts/infohidro.woff?23rj0o') format('woff'),
-    url('fonts/infohidro.svg?23rj0o#infohidro') format('svg');
+  src:  url('fonts/infohidro.eot?e3qqh6');
+  src:  url('fonts/infohidro.eot?e3qqh6#iefix') format('embedded-opentype'),
+    url('fonts/infohidro.ttf?e3qqh6') format('truetype'),
+    url('fonts/infohidro.woff?e3qqh6') format('woff'),
+    url('fonts/infohidro.svg?e3qqh6#infohidro') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,13 +25,13 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-pluviometrica:before {
+.icon-infohidro-pluviometrica:before {
   content: "\e906";
 }
-.icon-meteorologica:before {
+.icon-infohidro-meteorologica:before {
   content: "\e915";
 }
-.icon-hidrologica:before {
+.icon-infohidro-hidrologica:before {
   content: "\e916";
 }
 .icon-infohidro-termometro:before {
