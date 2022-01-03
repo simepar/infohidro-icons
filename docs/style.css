@@ -39,19 +39,8 @@
   margin-left: -1em;
   color: rgb(0, 0, 0);
 }
-.icon-infohidro-meteorologica .path1:before {
+.icon-infohidro-meteorologica:before {
   content: "\e917";
-  color: rgb(0, 0, 0);
-}
-.icon-infohidro-meteorologica .path2:before {
-  content: "\e918";
-  margin-left: -1em;
-  color: rgb(255, 255, 255);
-}
-.icon-infohidro-meteorologica .path3:before {
-  content: "\e919";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
 }
 .icon-infohidro-pluviometrica .path1:before {
   content: "\e91a";
