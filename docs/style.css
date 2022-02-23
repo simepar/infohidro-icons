@@ -1,18 +1,18 @@
 @font-face {
-  font-family: 'infohidro';
-  src:  url('fonts/infohidro.eot?e3qqh6');
-  src:  url('fonts/infohidro.eot?e3qqh6#iefix') format('embedded-opentype'),
-    url('fonts/infohidro.ttf?e3qqh6') format('truetype'),
-    url('fonts/infohidro.woff?e3qqh6') format('woff'),
-    url('fonts/infohidro.svg?e3qqh6#infohidro') format('svg');
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?hnyra8');
+  src:  url('fonts/icomoon.eot?hnyra8#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?hnyra8') format('truetype'),
+    url('fonts/icomoon.woff?hnyra8') format('woff'),
+    url('fonts/icomoon.svg?hnyra8#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
 
-[class^="icon-"], [class*=" icon-"] {
+[class^="icon-infohidro-"], [class*=" icon-infohidro-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'infohidro' !important;
+  font-family: 'icomoon' !important;
   speak: never;
   font-style: normal;
   font-weight: normal;
@@ -25,72 +25,136 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-infohidro-pluviometrica:before {
-  content: "\e906";
-}
-.icon-infohidro-meteorologica:before {
-  content: "\e915";
-}
-.icon-infohidro-hidrologica:before {
-  content: "\e916";
-}
-.icon-infohidro-termometro:before {
-  content: "\e905";
-}
-.icon-infohidro-fogo-alerta:before {
-  content: "\e904";
-}
-.icon-infohidro-aproveitamento-hidreletrico:before {
-  content: "\e914";
-}
-.icon-infohidro-poco:before {
-  content: "\e900";
-}
-.icon-infohidro-pantano:before {
-  content: "\e901";
-}
-.icon-infohidro-onda:before {
-  content: "\e902";
-}
-.icon-infohidro-lupa-cancelado:before {
-  content: "\e903";
-}
-.icon-infohidro-fogo:before {
-  content: "\e907";
-}
-.icon-infohidro-floresta:before {
-  content: "\e908";
-}
-.icon-infohidro-eta:before {
-  content: "\e909";
-}
-.icon-infohidro-dispensa:before {
-  content: "\e90a";
-}
-.icon-infohidro-captacao:before {
-  content: "\e90b";
-}
-.icon-infohidro-bacia:before {
-  content: "\e90c";
+.icon-infohidro-abastecimento:before {
+  content: "\e90e";
 }
 .icon-infohidro-agropecuaria:before {
   content: "\e90d";
 }
-.icon-infohidro-abastecimento:before {
-  content: "\e90e";
+.icon-infohidro-aproveitamento-hidreletrico:before {
+  content: "\e914";
 }
-.icon-infohidro-volume:before {
-  content: "\e90f";
+.icon-infohidro-bacia:before {
+  content: "\e90c";
 }
-.icon-infohidro-reservatorio:before {
-  content: "\e910";
+.icon-infohidro-captacao:before {
+  content: "\e90b";
 }
-.icon-infohidro-predio:before {
-  content: "\e911";
+.icon-infohidro-dispensa:before {
+  content: "\e90a";
+}
+.icon-infohidro-eta:before {
+  content: "\e909";
+}
+.icon-infohidro-facebook:before {
+  content: "\e9077";
+}
+.icon-infohidro-floresta:before {
+  content: "\e908";
+}
+.icon-infohidro-fogo:before {
+  content: "\e907";
+}
+.icon-infohidro-fogo-alerta:before {
+  content: "\e904";
+}
+.icon-infohidro-hidrologica:before {
+  content: "\e916";
+}
+.icon-infohidro-instagram:before {
+  content: "\e90cc";
+}
+.icon-infohidro-linkedin:before {
+  content: "\e90dd";
+}
+.icon-infohidro-logo-simepar:before {
+  content: "\e90ee";
+  color: #fff;
+}
+.icon-infohidro-lupa-cancelado:before {
+  content: "\e903";
+}
+.icon-infohidro-meteorologica:before {
+  content: "\e915";
+}
+.icon-infohidro-onda:before {
+  content: "\e902";
+}
+.icon-infohidro-pantano:before {
+  content: "\e901";
+}
+.icon-infohidro-pluviometrica:before {
+  content: "\e906";
+}
+.icon-infohidro-poco:before {
+  content: "\e900";
+}
+.icon-infohidro-pontos-captacao:before {
+  content: "\e913";
 }
 .icon-infohidro-pontos-efluentes:before {
   content: "\e912";
 }
-.icon-infohidro-pontos-captacao:before {
-  content: "\e913";
+.icon-infohidro-predio:before {
+  content: "\e911";
+}
+.icon-infohidro-reservatorios:before {
+  content: "\e910";
+}
+.icon-infohidro-termometro:before {
+  content: "\e905";
+}
+.icon-infohidro-twitter:before {
+  content: "\e91a";
+}
+.icon-infohidro-volume:before {
+  content: "\e90f";
+}
+.icon-infohidro-wi-cloud:before {
+  content: "\e91c";
+}
+.icon-infohidro-wi-day-cloudy:before {
+  content: "\e91d";
+}
+.icon-infohidro-wi-day-rain:before {
+  content: "\e91e";
+}
+.icon-infohidro-wi-day-snow-thunderstorm:before {
+  content: "\e91f";
+}
+.icon-infohidro-wi-day-sunny:before {
+  content: "\e920";
+}
+.icon-infohidro-wi-day-sunny-overcast:before {
+  content: "\e921";
+}
+.icon-infohidro-wi-fog:before {
+  content: "\e922";
+}
+.icon-infohidro-wi-night-alt-cloudy:before {
+  content: "\e923";
+}
+.icon-infohidro-wi-night-alt-partly-cloudy:before {
+  content: "\e924";
+}
+.icon-infohidro-wi-night-alt-rain:before {
+  content: "\e925";
+}
+.icon-infohidro-wi-night-clear:before {
+  content: "\e926";
+}
+.icon-infohidro-wi-night-thunderstorm:before {
+  content: "\e927";
+}
+.icon-infohidro-wi-rain:before {
+  content: "\e928";
+}
+.icon-infohidro-wi-snow:before {
+  content: "\e929";
+}
+.icon-infohidro-wi-snowflake-cold:before {
+  content: "\e92a";
+}
+.icon-infohidro-wi-thunderstorm:before {
+  content: "\e92b";
 }
